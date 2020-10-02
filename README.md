@@ -1,22 +1,22 @@
-## Made from [AnyDLBot](https://telegram.dog/AnyDLBot)
+## Rename Bot 
 
-ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
+An Open Source Telegram Rename Bot
 
+---
+👺 Rename any Telegram Files with Permanent Thumbnail Support
 
-**My Features**:
-
-👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
-
-👉 Upload as file from any HTTP link
-
-👉 Added HOTSTAR Link Support!!
 
 ### Installation
 
-#### The Easiest Way
 
-**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+### You can tap the Deploy To Heroku button below to deploy straight to Heroku!
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prgofficial/RenameBot-PermTB)
 
-#### The Easy Way
+For Queries and support, contact [prgofficial](https://telegram.dog/prgofficial)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/prgofficial/URLuploader-With-Hotstar)
+## Credits, and Thanks to Beloved Developers ;
+
+* [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
+* [Dan Tès](https://telegram.dog/haskell) 
+* [Yoily](https://telegram.dog/YoilyL)
+* [Anand](https://telegram.dog/Anandpskerala)
